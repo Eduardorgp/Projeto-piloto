@@ -1,2 +1,2 @@
-# Projeto piloto
+# Projeto Piloto
  Primeiro repositório
